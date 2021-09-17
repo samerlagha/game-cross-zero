@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/game-cross-zero/static/css/main.12135dd6.chunk.css",
+    "main.js": "/game-cross-zero/static/js/main.6cc7d6f5.chunk.js",
+    "main.js.map": "/game-cross-zero/static/js/main.6cc7d6f5.chunk.js.map",
+    "runtime-main.js": "/game-cross-zero/static/js/runtime-main.9b0a0af9.js",
+    "runtime-main.js.map": "/game-cross-zero/static/js/runtime-main.9b0a0af9.js.map",
+    "static/js/2.14d1d603.chunk.js": "/game-cross-zero/static/js/2.14d1d603.chunk.js",
+    "static/js/2.14d1d603.chunk.js.map": "/game-cross-zero/static/js/2.14d1d603.chunk.js.map",
+    "index.html": "/game-cross-zero/index.html",
+    "static/css/main.12135dd6.chunk.css.map": "/game-cross-zero/static/css/main.12135dd6.chunk.css.map",
+    "static/js/2.14d1d603.chunk.js.LICENSE.txt": "/game-cross-zero/static/js/2.14d1d603.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b0a0af9.js",
+    "static/js/2.14d1d603.chunk.js",
+    "static/css/main.12135dd6.chunk.css",
+    "static/js/main.6cc7d6f5.chunk.js"
+  ]
+}
