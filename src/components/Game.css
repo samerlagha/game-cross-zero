@@ -1,0 +1,33 @@
+.wrapper {
+    min-height:100vh;
+    width: 100%;
+    background-color: #222222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.start__btn{
+    width: 200px;
+    height:35px;
+    margin-bottom: 25px;
+    cursor: pointer;
+    color: aliceblue;
+    outline: none;
+    background: #039132;
+    border-radius:20px;
+    border: 1px solid #fff
+}
+
+.start__btn:hover{
+    background: rgb(233, 4, 4);
+    color: #f5ecec;
+    transition:.3s all ease;
+}
+
+.game__info{
+    margin-top:25px;
+    font-size:36px;
+    color: #fff;
+}
